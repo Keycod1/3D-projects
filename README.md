@@ -12,7 +12,7 @@ Conception 3D : Modélisation et rendu (principalement sur 3ds Max).
 
 Conception de PCB : Utilisation de EasyEDA pour le design de circuits.
 
-Fabrication Numérique : Impression 3D (filament et résine), gravure et découpe laser (LaserGRBL, LightBurn).
+Fabrication Numérique : Impression 3D (filament et résine), gravure et découpe laser (LaserGRBL, LightBurn) avec un graveur Diode et une découpeuse CO².
 
 Graphisme : Photoshop, Inkscape.
 
