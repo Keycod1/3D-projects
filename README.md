@@ -17,7 +17,9 @@ Fabrication Numérique : Impression 3D (filament et résine), gravure et découp
 Graphisme : Photoshop, Inkscape.
 
 Travaux & Bricolage : Solides connaissances en assemblage et rénovation (soudure, bois, plomberie, plafonnage, maçonnerie).
+
 https://www.instagram.com/babapanda.be/
+
 🖼 Mon Portfolio
 Je regroupe ici l'ensemble de mes rendus et créations, qu'ils soient purement 3D ou photographiques. Ce dossier me sert de journal de bord pour suivre mon évolution technique et artistique.
 
