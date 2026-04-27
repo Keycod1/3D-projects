@@ -1,5 +1,5 @@
 👋 Bonjour, moi c’est Bastien (BabaPanda) !
-Créateur autodidacte | Passionné de 3D & de bidouille technique
+Créateur autodidacte | Passionné de 3D & de technique
 
 Bienvenue sur mon espace de partage. Passionné par la création sous toutes ses formes, je consacre une grande partie de mon temps à explorer les volumes et la lumière, principalement à travers 3ds Max.
 
